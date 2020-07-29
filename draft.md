@@ -54,9 +54,11 @@ Release Date: 2020-08-03
 
 + [{highlighter}: A simple shiny app for highlighting text](https://github.com/r4fun/highlighter)
 
++ [{fabricerin}: Taking notes / drawing within RMarkdown documents and Shiny apps](https://ihaddadenfodil.com/post/taking-notes-in-rmarkdown-using-the-fabricerin-package/)
+
 ### Updated Packages
 
-
++ [{bubblyr}: https://github.com/feddelegrand7/bubblyr](https://github.com/feddelegrand7/bubblyr)
 
 ###  Videos and Podcasts
 
