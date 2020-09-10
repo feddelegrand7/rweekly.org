@@ -87,6 +87,8 @@ image: https://rweekly.org/public/facebook.png
 + [Beyond gifs](https://blog.k2h.se/post/beyond-gifs/)
 
 + [How to use R to remove audiobooks from your Spotify liked songs](https://frie.codes/using-r-to-remove-audiobooks-from-spotify/)
+
++ [R Base Gems](https://ihaddadenfodil.com/post/r-base-gems/)
                                                  
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
