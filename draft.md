@@ -70,6 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
+![Call for Abstracts: UseR2021](https://user2021.r-project.org/participation/call-for-abstracts/)
 
 
 ###  Tutorials
